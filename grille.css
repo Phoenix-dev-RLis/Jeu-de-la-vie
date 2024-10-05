@@ -1,0 +1,11 @@
+/* styles.css */
+#viewport {
+    width: 400px;   /* Largeur de la fenêtre visible */
+    height: 400px;  /* Hauteur de la fenêtre visible */
+    border: 2px solid black;
+    overflow: hidden; /* Empêche tout dépassement de la grille */
+}
+
+canvas {
+    display: block;
+}
